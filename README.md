@@ -74,6 +74,8 @@ if you like my A+ stats, then you can make your own by checking out the [GitHub 
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
+ ![Snake animation](https://github.com/alihxn23/alihxn23/blob/output/github-contribution-grid-snake.svg)
+
 <!-- #### IDEs
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
