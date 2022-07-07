@@ -12,9 +12,10 @@
 </a>
 <a href="https://discordapp.com/users/887374732264095834">
   <img align="left" alt="Muhammad's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+</a>  
+<br />
 
-## I'm [**Muhammad**](https://www.linkedin.com/in/alihxn23/) and welcome to my GitHub profile!
+## Hi! I'm [**Muhammad**](https://www.linkedin.com/in/alihxn23/) and welcome to my GitHub profile!
 
 I'm a Skilled developer proficient in full-stack development technologies such as: HTML, CSS, JavaScript, React, Angular, Node, Express, and MongoDB. Additionally, I also utilize hybrid development frameworks such as Ionic for mobile development, and make cloud-based APIs AWS Lambda and AWS API Gateway. I am passionate about developing and scaling new ideas/projects and working in a collaborative environment.
 
