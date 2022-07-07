@@ -54,6 +54,16 @@ I'm a Skilled developer proficient in full-stack development technologies such a
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)&nbsp;
 
+## Connect with me:
+
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://alihxn23.github.io)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/alihxn23/)
+[<img src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=black" />](https://discordapp.com/users/887374732264095834)
+
+</p>
+
 ## GitHub Stats
 
 if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
