@@ -17,7 +17,7 @@
 
 ## Hi! I'm [**Muhammad**](https://www.linkedin.com/in/alihxn23/) and welcome to my GitHub profile!
 
-I'm a Skilled developer proficient in full-stack development technologies such as: HTML, CSS, JavaScript, React, Angular, Node, Express, and MongoDB. Additionally, I also utilize hybrid development frameworks such as Ionic for mobile development, and make cloud-based APIs AWS Lambda and AWS API Gateway. I am passionate about developing and scaling new ideas/projects and working in a collaborative environment.
+I'm a skilled developer proficient in full-stack development technologies such as: HTML, CSS, JavaScript, React, Angular, Node, Express, and MongoDB. Additionally, I also utilize hybrid development frameworks such as Ionic for mobile development, and make cloud-based APIs AWS Lambda and AWS API Gateway. I am passionate about developing and scaling new ideas/projects and working in a collaborative environment.
 
 ## Skills:
 
@@ -72,7 +72,7 @@ if you like my A+ stats, then you can make your own by checking out the [GitHub 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alihxn23&theme=prussian)](https://git.io/streak-stats)
 
-### Watch my contribution graph get eaten by the snake 🐍
+## Watch my contribution graph get eaten by the snake 🐍
 
  ![Snake animation](https://github.com/alihxn23/alihxn23/blob/output/github-contribution-grid-snake.svg)
 
