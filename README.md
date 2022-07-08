@@ -64,6 +64,11 @@ I'm a skilled developer proficient in full-stack development technologies such a
 
 </p>
 
+## Metrics 📈
+![Metrics](https://metrics.lecoq.io/alihxn23?template=classic&languages=1&isocalendar=1&repositories=1&activity=1&achievements=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=3&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.pinned=0&config.timezone=America%2FChicago)
+
+
+
 ## GitHub Stats
 
 if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
