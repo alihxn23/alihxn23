@@ -81,6 +81,13 @@ if you like my A+ stats, then you can make your own by checking out the [GitHub 
 
  ![Snake animation](https://github.com/alihxn23/alihxn23/blob/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 <!-- #### IDEs
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
