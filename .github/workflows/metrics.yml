@@ -19,8 +19,9 @@ jobs:
         with:
           filename: my-metrics-0.svg
           output-action: pull-request
-          # token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
           filename: my-metrics-1.svg
           output_action: pull-request-merge
+          token: ${{ secrets.METRICS_TOKEN }}
