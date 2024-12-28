@@ -32,7 +32,7 @@ jobs:
           # base: ""
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
-          # output-action: pull-request-merge
+          output-action: pull-request-merge
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
