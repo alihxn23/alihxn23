@@ -20,17 +20,43 @@ jobs:
       #     filename: my-metrics-0.svg
       #     output-action: pull-request
       #     token: ${{ secrets.METRICS_TOKEN }}
+      # - uses: lowlighter/metrics@latest
+        # with:
+          # filename: my-metrics-1.svg
+          # output_action: pull-request-merge
+          # token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-          filename: my-metrics-1.svg
-          output_action: pull-request-merge
+          # filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          # base: ""
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
+          # output-action: pull-request-merge
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Chicago
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          output-action: pull-request-merge
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
